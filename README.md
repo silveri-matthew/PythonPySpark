@@ -21,18 +21,115 @@ Imported a CSV file. Cleaned up the filed and used PySpark package to run a logi
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Cases Map: <br/>
-<img src="https://imgur.com/QVce0yj.png" height="80%" width="80%" alt="Project walk-through"/>
+Data Loading: <br/>
+<img src="https://imgur.com/9j1o5LR.png" height="80%" width="80%" alt="Project walk-through"/>
 <br />
 <br />
-Fatality Map:  <br/>
-<img src="https://imgur.com/0kvI9gK.png" height="80%" width="80%" alt="Project walk-through"/>
+<img src="https://imgur.com/PyBmtbj.png" height="80%" width="80%" alt="Project walk-through"/>
 <br />
-Stacked Bar Chart:  <br/>
-<img src="https://imgur.com/CpNt3wP.png" height="80%" width="80%" alt="Project walk-through"/>
 <br />
-Filter by City:  <br/>
-<img src="https://imgur.com/w1NuEcs.png" height="80%" width="80%" alt="Project walk-through"/>
+<img src="https://imgur.com/F1ahOld.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="https://imgur.com/QrV7mf0.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="https://imgur.com/NzJbKhK.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="https://imgur.com/bmceJ3u.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+Data Cleansing:  <br/>
+<img src="https://imgur.com/kNWYePS.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="https://imgur.com/Xo7EypL.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+Simple Descriptive Statistics:  <br/>
+<img src="https://imgur.com/YBeTbRL.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="https://imgur.com/6WzBGr5.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="https://imgur.com/PljKTRR.png" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+Data Recording:  <br/>
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+Modeling:  <br/>
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
+<br />
+<img src="" height="80%" width="80%" alt="Project walk-through"/>
+<br />
 <br />
 <p align="left">
 <br />
